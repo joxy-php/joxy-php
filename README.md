@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joxy-php
 - 👀 I’m interested in python,java-script,c++,php,html
-- 🌱 I’m currently learning ph
+- 🌱 I’m currently learning php
 -  How to reach me Telegram:Joxyle
 - 😄 Pronouns: HE WAS HERE
 
