@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @joxy-php
-- 👀 I’m interested in python,java-script,c++,php,html
-- 🌱 I’m currently learning php
--  How to reach me Telegram:Joxyle
-- 😄 Pronouns: HE WAS HERE
+# 👋 Zdravo, ja sam Joxy!
+
+💻 **Web Programer | Cyber Security Enthusiast | Game Developer**  
+🚀 Pravim i prodajem web sajtove | Radim na FiveM & Roblox igrama  
+
+---
+
+### 🛠️ Veštine:
+- 💡 **Programiranje**: Python, Bash
+- 🔐 **Cyber Security**: Učim etički hacking i sigurnosne prakse  
+- 🎮 **Game Dev**: FiveM, Roblox Studio (Lua)  
+
+---
+
+### 📌 Projekti:
+🔹 [💻 Portfolio & Web usluge](https://jovanphp.xyz)  
+🔹 [🔧 FiveM HUD & ESP](https://github.com/joxy-php)  
+🔹 [🎮 Roblox FPS Shooter](https://github.com/joxy-php)  
+
+---
+
+### 📫 Kontakt:
+- ✉️ Email: [joxy@jovanphp.xyz](mailto:joxy@jovanphp.xyz)  
+- 🔗 GitHub: [github.com/joxy-php](https://github.com/joxy-php)  
 
 
-.[
-<!---
-joxy-php/joxy-php is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 **"Kodiram sa strašću i težim savršenstvu!"** 🚀  
