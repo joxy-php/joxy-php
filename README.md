@@ -18,6 +18,7 @@
 🔹 [💻 Portfolio & Web usluge](https://jovanphp.xyz)  
 🔹 [🔧 FiveM HUD & ESP](https://github.com/joxy-php)  
 🔹 [🎮 Roblox FPS Shooter](https://github.com/joxy-php)  
+![Najčešće korišćeni jezici](https://github-readme-stats.vercel.app/api/top-langs/?username=joxy-php&layout=compact&langs_count=6&theme=dark)
 
 ---
 
