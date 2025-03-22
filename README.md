@@ -10,7 +10,7 @@
 ![](https://komarev.com/ghpvc/?username=joxy-php&color=blue)
 
 
-💻 **Web Programer | Cyber Security Enthusiast | Game Developer**  
+💻 **| Cyber Security Enthusiast | Game Developer**  
 🚀 Pravim i prodajem web sajtove | Radim na FiveM & Roblox igrama  
 
 ---
