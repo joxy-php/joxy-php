@@ -1,6 +1,6 @@
 ![Doxbin Logo](https://i.imgur.com/ZUHcN3E.png)
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Joxy's+GitHub+page.)](https://git.io/typing-svg)
 
 
 
